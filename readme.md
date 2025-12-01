@@ -162,4 +162,4 @@ Full roadmap → [[[Roadmap]](https://github.com/BhaskarHCS/AgenticAI-for-PM-s/w
 
 Email: operations@hcsbharath.com
 
-Company: HCS — Hamrith Consulting Services LLP
+Company: HCS — Hamrith Consulting Service LLP
